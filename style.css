@@ -1,0 +1,23 @@
+.fondo {
+    background-image: url(dondo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#Canvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+.titulo{
+    font-family: 'Minecrafter Alt', sans-serif;
+    font-family: 'Minecrafter', sans-serif;
+    font-size: 100px;
+    color:rgb(29, 155, 29);
+}
+h3{
+    display:inline-block;
+    color: white;
+}
+span{
+    color:yellow;
+}
